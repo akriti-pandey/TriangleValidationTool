@@ -1,0 +1,25 @@
+{
+    "triangles": [
+      {
+        "side1": 3,
+        "side2": 10,
+        "side3": 12
+      },
+      {
+        "side1": 3,
+        "side2": 3,
+        "side3": 3
+      },
+      {
+        "side1": 3,
+        "side2": 3,
+        "side3": 5
+      },
+      {
+        "side1": 3,
+        "side2": 3,
+        "side3": 80
+      }
+    ]
+  }
+  
